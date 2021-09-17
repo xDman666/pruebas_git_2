@@ -1,4 +1,10 @@
-var a = 7;
+var p = 5;
 
-console.log(a);
-document.write(a);
+function hola () {
+    if (p = 5)
+
+    document.write("hola");
+}
+
+hola();
+
